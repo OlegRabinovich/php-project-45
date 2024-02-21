@@ -5,9 +5,9 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hexlet\\Code\\": "src/",
-	    "files": ["src/Cli.php"]
-        }
+            "Hexlet\\Code\\": "src/"
+        },
+	"files": ["src/Cli.php"]
     },
     "authors": [
         {
